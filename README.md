@@ -8,12 +8,14 @@ Explore global trends in COVID-19 cases, deaths, and vaccinations.
 Visualize data using line charts, bar charts, and pie charts.
 Calculate key indicators such as death rates and vaccination coverage.
 Build an optional Streamlit dashboard for interactive exploration.
+
 🛠️ Tools and Libraries
 Python
 pandas
 matplotlib
 seaborn
 streamlit (for interactive dashboard)
+
 🚀 How to Run
 Clone the repo or download the .ipynb file.
 Open in Jupyter Notebook or Google Colab
